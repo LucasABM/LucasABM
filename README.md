@@ -31,7 +31,7 @@
 </p>
 
 <!-- GIF FLOTANDO À DIREITA -->
-<p align="right" style="float: right; margin: 0; padding: 0;">
+<p align="right" style="float: right; margin-top: -50px; margin: 0; padding: 0;">
   <img 
     src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
     alt="Star Wars Hello There"
