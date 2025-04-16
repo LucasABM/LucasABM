@@ -2,16 +2,13 @@
 
 <p align="left">
   Eu sou <strong>Lucas Moreira</strong>, desenvolvedor de software e analista de sistemas com +7 anos de experiência 😊.<br />
-  Minha trajetória inclui projetos de alto impacto onde liderar equipes, automatizar processos e elevar a eficiência em TI são rotina 😉.
+  Minha trajetória inclui projetos de alto impacto onde liderar equipes, automatizar processos e elevar a eficiência em TI são rotina 😊.
 </p>
 
-<!-- Linha cinza de separação -->
-<hr />
-
-<!-- Container principal -->
-<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; border: none;">
+<!-- Container para ícones e GIF lado a lado -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
   <!-- Ícones de tecnologias -->
-  <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center; border: none; width: 70%;">
+  <div style="display: flex; flex-wrap: wrap; gap: 5px; width: 70%;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="25" />
@@ -33,9 +30,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="25" />
   </div>
   
-  <!-- GIF ao lado direito -->
-  <div style="border: none; width: 30%; text-align: right;">
-    <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" alt="Hello There" height="120" style="display: inline-block;" />
+  <!-- GIF à direita -->
+  <div style="width: 30%; text-align: right;">
+    <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" alt="Hello There" height="120" />
   </div>
 </div>
 
@@ -49,7 +46,7 @@
   
   Estou sempre em busca de aprender e colaborar. Sugestões e contribuições são bem-vindas!<br /><br />
   
-  Vamos transformar grandes ideias em realidade! 😉<br /><br />
+  Vamos transformar grandes ideias em realidade! 😊<br /><br />
   
   — Lucas Moreira
 </p>
