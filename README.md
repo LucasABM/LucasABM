@@ -7,12 +7,8 @@
 
 <hr />
 
-<!--
-  Seção com os ícones de programação. 
-  - "white-space: nowrap;" faz tudo ficar em uma linha, 
-  - "margin-bottom: 10px;" cria espaço abaixo,
--->
-<div style="white-space: nowrap; margin-bottom: 10px;">
+<!-- Seção com os skills. -->
+<div style="white-space: nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="35" style="margin-right:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="35" style="margin-right:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="35" style="margin-right:5px;" />
@@ -35,13 +31,11 @@
 </div>
 
 <!-- GIF embaixo das logos -->
-<div style="margin-bottom: 15px;">
   <img
     src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
     alt="Star Wars Hello There"
     style="height:120px;"
   />
-</div>
 
 <!-- Seção de texto principal -->
 <p>
@@ -57,7 +51,7 @@
 
 <hr />
 
-<!-- Contatos: somente estes ícones são clicáveis -->
+<!-- Contatos: -->
 <div>
   <a href="https://linktr.ee/seudomain">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo" />
