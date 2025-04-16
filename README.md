@@ -8,7 +8,7 @@
 <hr />
 
 <!-- ÍCONES FLOTANDO À ESQUERDA -->
-<p style="float: left; margin: 0; padding: 0;">
+<p align="left" style="float: left; margin: 0; padding: 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="25" style="margin-right:3px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="25" style="margin-right:3px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="25" style="margin-right:3px;" />
@@ -31,7 +31,7 @@
 </p>
 
 <!-- GIF FLOTANDO À DIREITA -->
-<p style="float: right; margin: 0; padding: 0;">
+<p align="right" style="float: right; margin: 0; padding: 0;">
   <img 
     src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
     alt="Star Wars Hello There"
