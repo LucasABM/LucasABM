@@ -5,40 +5,41 @@
   Minha trajetória inclui projetos de alto impacto onde liderar equipes, automatizar processos e elevar a eficiência em TI são rotina 🚀.
 </p>
 
----
+<hr />
 
-<!-- Tabela para alinhar ícones (esquerda) e GIF (direita) -->
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <!-- COLUNA DA ESQUERDA: ÍCONES -->
-    <td valign="top" style="border: none; white-space: nowrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="aws logo" style="height:25px; margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure logo" style="height:25px; margin-right:3px;" />
+<!-- Tabela para alinhar ícones (coluna esquerda) e GIF (coluna direita) -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- COLUNA ESQUERDA: ÍCONES -->
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="aws logo" height="25" style="margin-right:3px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure logo" height="25" style="margin-right:3px;" />
     </td>
 
-    <!-- COLUNA DA DIREITA: GIF -->
-    <td valign="top" align="right" style="border: none;">
+    <!-- COLUNA DIREITA: GIF -->
+    <td valign="top" align="right">
       <img 
         src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
         alt="Star Wars Hello There"
-        style="height:120px; vertical-align: top; margin-left:5px;"
+        height="120"
+        style="vertical-align: top; margin-left:10px;"
       />
     </td>
   </tr>
@@ -46,7 +47,7 @@
 
 <br />
 
-<p align="left">
+<p>
   Aqui no meu GitHub, você encontrará:<br /><br />
   🚀 <strong>Projetos Full Stack:</strong> Repositórios que exploram soluções completas com tecnologias como PHP, Python, JavaScript, React.js, Node.js, C# e muito mais.<br /><br />
   🔌 <strong>Integrações & Automação:</strong> Soluções customizadas que transformam desafios em oportunidades por meio da inovação tecnológica.<br /><br />
@@ -56,7 +57,7 @@
   — Lucas Moreira
 </p>
 
----
+<hr />
 
 <!-- ÍCONES DE CONTATO -->
 <div align="left">
