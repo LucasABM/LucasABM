@@ -30,12 +30,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="35" style="margin-right:5px;" />
 </div>
 
+<br />
+
 <!-- GIF embaixo das logos -->
+<p>
   <img
     src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
     alt="Star Wars Hello There"
     style="height:120px;"
   />
+</p>
 
 <!-- Seção de texto principal -->
 <p>
