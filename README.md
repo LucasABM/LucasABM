@@ -7,11 +7,11 @@
 
 <hr />
 
-<!-- Tabela para alinhar os ícones à esquerda e o GIF à direita -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- Coluna dos ícones (alinhados ao topo) -->
-    <td valign="top" style="white-space: nowrap;">
+<!-- Tabela 100% sem bordas -->
+<table style="width: 100%; border: 0; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+  <tr style="border: 0;">
+    <!-- ÍCONES À ESQUERDA -->
+    <td valign="top" style="white-space: nowrap; border: 0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" height="25" style="margin-right:3px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="25" style="margin-right:3px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="25" style="margin-right:3px;" />
@@ -32,9 +32,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="aws logo" height="25" style="margin-right:3px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure logo" height="25" style="margin-right:3px;" />
     </td>
-    <!-- Coluna do GIF (alinhado à direita, no topo) -->
-    <td valign="top" align="right">
-      <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" alt="Star Wars Hello There" height="120" style="margin-left:5px;" />
+    <!-- GIF À DIREITA -->
+    <td valign="top" align="right" style="border: 0;">
+      <img 
+        src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
+        alt="Star Wars Hello There"
+        height="120"
+        style="vertical-align: top; margin-left:5px;"
+      />
     </td>
   </tr>
 </table>
