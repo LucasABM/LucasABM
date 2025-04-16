@@ -8,13 +8,11 @@
 <hr />
 
 <!--
-  Seção que exibe as logos (ícones) em uma única linha, sem serem clicáveis.
-  - white-space: nowrap -> impede quebra de linha
-  - margin-bottom: 10px -> cria um espaço depois das logos
+  Seção com os ícones de programação. 
+  - "white-space: nowrap;" faz tudo ficar em uma linha, 
+  - "margin-bottom: 10px;" cria espaço abaixo,
 -->
 <div style="white-space: nowrap; margin-bottom: 10px;">
-
-  <!-- Cada logo é um <img> simples, sem link, com altura 35px -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="35" style="margin-right:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="35" style="margin-right:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="35" style="margin-right:5px;" />
@@ -36,10 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="35" style="margin-right:5px;" />
 </div>
 
-<!--
-  GIF embaixo das logos
-  - margin-bottom: 15px -> espaço após o GIF
--->
+<!-- GIF embaixo das logos -->
 <div style="margin-bottom: 15px;">
   <img
     src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
@@ -54,7 +49,7 @@
   🚀 <strong>Projetos Full Stack:</strong> Soluções completas usando PHP, Python, JavaScript, React.js, Node.js, C# e mais.<br><br>
   🔌 <strong>Integrações & Automação:</strong> Transformando desafios em oportunidades com inovação tecnológica.<br><br>
   ⚙️ <strong>Práticas Ágeis & DevOps:</strong> Métodos e ferramentas para garantir qualidade e eficiência no desenvolvimento.<br><br>
-  Estou sempre em busca de aprender algo novo e de colaborar com a comunidade. 
+  Estou sempre em busca de aprender algo novo e de colaborar com a comunidade.  
   Se tiver sugestões, ideias ou quiser contribuir, fique à vontade para abrir uma issue ou enviar um pull request!<br><br>
   Vamos juntos transformar grandes ideias em realidade!<br><br>
   — Lucas Moreira
@@ -62,7 +57,7 @@
 
 <hr />
 
-<!-- Seção de contatos / redes sociais -->
+<!-- Contatos: somente estes ícones são clicáveis -->
 <div>
   <a href="https://linktr.ee/seudomain">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo" />
