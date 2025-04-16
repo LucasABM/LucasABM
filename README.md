@@ -7,42 +7,40 @@
 
 <hr />
 
-<!-- Tabela 100% sem bordas -->
-<table style="width: 100%; border: 0; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
-  <tr style="border: 0;">
-    <!-- ÍCONES À ESQUERDA -->
-    <td valign="top" style="white-space: nowrap; border: 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="aws logo" height="25" style="margin-right:3px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure logo" height="25" style="margin-right:3px;" />
-    </td>
-    <!-- GIF À DIREITA -->
-    <td valign="top" align="right" style="border: 0;">
-      <img 
-        src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
-        alt="Star Wars Hello There"
-        height="120"
-        style="vertical-align: top; margin-left:5px;"
-      />
-    </td>
-  </tr>
-</table>
+<!-- ÍCONES FLOTANDO À ESQUERDA -->
+<p style="float: left; margin: 0; padding: 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="aws" height="25" style="margin-right:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="25" style="margin-right:3px;" />
+</p>
+
+<!-- GIF FLOTANDO À DIREITA -->
+<p style="float: right; margin: 0; padding: 0;">
+  <img 
+    src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif"
+    alt="Star Wars Hello There"
+    height="120"
+  />
+</p>
+
+<!-- LIMPAR FLOAT PARA CONTEÚDO SEGUINTE NÃO ENROLAR EM VOLTA -->
+<div style="clear: both;"></div>
 
 <br />
 
@@ -58,6 +56,7 @@
 
 <hr />
 
+<!-- LINKS DE CONTATO -->
 <div align="left">
   <a href="https://linktr.ee/seudomain">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo" />
